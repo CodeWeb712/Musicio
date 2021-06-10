@@ -55,7 +55,7 @@ button{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    Left:25%;
+    Left:30%;
     color: rgba(0, 204, 255, 0.644);
     font-family: 'cursive';
 }
