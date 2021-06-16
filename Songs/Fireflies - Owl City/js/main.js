@@ -7,10 +7,10 @@ ext, agent, playlist_artist,repeat,randomSong;
 //Initialization of Array of Music, Title, Poster Image, Artists
 
 dir="music/";
-playlist = ["Fireflies - Legend of the Guardians"];
+playlist = ["Fireflies - Owl City"];
 title = ["Fireflies",];
 
-artists = ["Legend of the Guardians"];
+artists = ["Owl City"];
 
 poster = ["images/ncs2.jpg"];
 
