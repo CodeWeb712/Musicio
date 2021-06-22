@@ -7,10 +7,10 @@ ext, agent, playlist_artist,repeat,randomSong;
 //Initialization of Array of Music, Title, Poster Image, Artists
 
 dir="music/";
-playlist = ["Together We Can Change The World - This and That"];
+playlist = ["Together We Can Change The World - Single"];
 title = ["Together We Can Change The World",];
 
-artists = ["This and That"];
+artists = ["Single"];
 
 poster = ["images/ncs2.jpg"];
 
